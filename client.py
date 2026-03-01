@@ -26,4 +26,3 @@ except KeyboardInterrupt:
 finally:
     s.close()
     print("Соединение закрыто.")
-    print('shkebob')
